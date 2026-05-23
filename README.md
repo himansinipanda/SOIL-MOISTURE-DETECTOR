@@ -1,8 +1,6 @@
 # 🌱 Soil Moisture Detector with Auto Irrigation
 
-> **DRIEMS Polytechnic** | Department of Computer Science & Engineering  
-> Semester: 4th | Section: A | Group No: 10 | Academic Year: 2025–2026  
-> Project Guide: **Er. Subhashree Samantaray**
+
 
 ---
 
