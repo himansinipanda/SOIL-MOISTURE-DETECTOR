@@ -1,0 +1,14 @@
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets — NEVER commit real credentials
+secrets.h
+config_private.h
