@@ -131,17 +131,7 @@ soil-moisture-detector/
 └── README.md
 ```
 
----
 
-## 👥 Team Members
-
-| Reg. No | Name |
-|---|---|
-| F24026007046 | Harisankar Nayak |
-| F24026007047 | Himansini Panda |
-| F24026007048 | Hruday Kumar Behera |
-| F24026007049 | Jatin Mohapatra |
-| F24026007050 | Jayasha Swain |
 
 ---
 
